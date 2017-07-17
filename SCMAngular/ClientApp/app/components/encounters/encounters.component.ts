@@ -4,7 +4,7 @@
     selector: 'encounters',
     templateUrl: './encounters.component.html'
 })
-export class EncoutnersComponent {
+export class EncountersComponent {
     constructor() {
     }
 }
